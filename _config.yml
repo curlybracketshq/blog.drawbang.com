@@ -1,0 +1,10 @@
+title: "Draw!"
+description: "Draw 16 x 16 animated pictures. Draw! is a social flavored online pixel art editor."
+baseurl: ""
+url: "https://blog.drawbang.com"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+excerpt_separator: "<!--more-->"
+plugins:
+  - jekyll-redirect-from
